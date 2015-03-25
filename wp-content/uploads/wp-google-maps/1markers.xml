@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<markers>
+  <marker>
+    <marker_id>2</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>91120, France (D.A.F Logistique Echafaudage)</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>48.7127494</lat>
+    <lng>2.2265113999999357</lng>
+    <anim>0</anim>
+    <category></category>
+    <infoopen>0</infoopen>
+  </marker>
+  <marker>
+    <marker_id>3</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>94500, France (Bureau d&#x2019;&#xE9;tudes - conduite de travaux et petit stockage)</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>48.8173971</lat>
+    <lng>2.515567199999964</lng>
+    <anim>0</anim>
+    <category></category>
+    <infoopen>0</infoopen>
+  </marker>
+</markers>

@@ -1,0 +1,3501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arkitekt v1.0.0\n"
+"POT-Creation-Date: 2014-08-15 12:01+0500\n"
+"PO-Revision-Date: 2014-08-15 12:01+0500\n"
+"Last-Translator: Shahbaz Ahmed <support@wow-themes.com>\n"
+"Language-Team: Wow Themes <support@wow-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: E:\\xampp\\htdocs\\arkitekt\\wp-content\\themes"
+"\\arkitekt\n"
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/404.php:11
+msgid "404"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/archive.php:15
+msgid "F Y"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/archive.php:17
+msgid "Y"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/archive.php:19
+msgid "Archives"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/author.php:10
+#, php-format
+msgid "Author Archive for %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/category.php:10
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/footer.php:60
+msgid "Back to Top"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/functions.php:125
+msgid "Main Menu"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/functions.php:126
+msgid "Footer Menu"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:57
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:360
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:335
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:258
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:26
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:90
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:154
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:227
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:291
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:373
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:423
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:462
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:541
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:727
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/tpl-wishlist.php:40
+msgid "Name"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:59
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:364
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:336
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:561
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:261
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:619
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:661
+msgid "Email"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:61
+msgid "Website"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:63
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:375
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:562
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:266
+msgid "Message"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:68
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:567
+msgid "Invalid captcha entered, please try again."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:85
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:584
+msgid "Contact Us Message"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:87
+#, php-format
+msgid ""
+"Thank you <strong>%s</strong> for using our Contact form! Your email was "
+"successfully sent and we will be in touch with you soon."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:106
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:599
+msgid "Error! "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:146
+msgid "You have already added this product to wish list"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:150
+msgid "Product successfully added to wishlist"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:153
+msgid "There is an error edding wishlist"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:156
+msgid "Please login first to add the product to your wishlist"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:174
+msgid "Product is successfully deleted from wishlist"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:175
+msgid "Unable to find this product into wishlist"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:178
+msgid "Unable to retrieve your wishlist"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/ajax.php:181
+msgid "Please login first to add/delete product in your wishlist"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/backup_class.php:235
+#, php-format
+msgid ""
+"System is not able to create backup directory, please create a directory "
+"named \"backup\" in \"%s\" manually and give it 0777 write permission."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/forms.php:111
+msgid "UPLOAD"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/functions.php:7
+msgid "Like us on Facebook"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/functions.php:7
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/functions.php:7
+msgid "Circle Us on Google Plus"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/functions.php:7
+msgid "Follow us on Linkedin"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/functions.php:7
+msgid "Follow us on Xing"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/functions.php:7
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/meta_boxes.php:30
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:16
+msgid "Slides"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:17
+msgid "Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:18
+msgid "Slidr"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:19
+msgid "Parent Slide:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:20
+msgid "All Slides"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:21
+msgid "View Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:22
+msgid "Add New Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:23
+msgid "New Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:24
+msgid "Edit Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:25
+msgid "Update Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:26
+msgid "Search Slides"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:27
+msgid "No Slides found"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:28
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/post_types.php:42
+msgid "bistro_slider"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:57
+msgid "Recent Works"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:58
+msgid "some handpicked projects we have done"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:80
+msgid "testimonials"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:81
+msgid "what clients say about our awesome company"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:102
+msgid "team"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:103
+msgid "what clients say about our awesome team"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:127
+msgid "recent post title"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:128
+msgid "recent post sub_title"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:151
+msgid "Some Fun Facts"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:176
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:804
+msgid "Fact"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:247
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:8
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:38
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:75
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:148
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:175
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:208
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:235
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:270
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:288
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:334
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:384
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:416
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:428
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:386
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:915
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:946
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:26
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:64
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:90
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:128
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:154
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:201
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:227
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:265
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:291
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:347
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:373
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:423
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:462
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:493
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:541
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:579
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:644
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:727
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:787
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:813
+msgid "Title"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:248
+msgid "SubTitle"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:249
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:276
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:422
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:434
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:510
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:595
+msgid "Text"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:282
+msgid "Why Choose Metrical Theme ?"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:283
+msgid "some reasons why you should choose Metrical for your next project"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:307
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:568
+msgid "Contact Info"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:308
+msgid "our email, phone and street address"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:310
+msgid "lorem ipsum street"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:311
+msgid "+399 (500) 321 9548"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:312
+msgid "info@domain.com"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:345
+msgid "Get in touch"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:346
+msgid "send us a message"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:368
+msgid "website"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/shortcodes.php:376
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:267
+msgid "Send"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:14
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:15
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:16
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:54
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:55
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:56
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:94
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:95
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:96
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:131
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:132
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:133
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:168
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:169
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:170
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:205
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:206
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:207
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:209
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:373
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:300
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:320
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:396
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:440
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:42
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:106
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:170
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:243
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:307
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:389
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:557
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:743
+msgid "Category"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:17
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:57
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:97
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:134
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:171
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:208
+msgid "All Categories"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:18
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:58
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:98
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:135
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:172
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:209
+msgid "Parent Category"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:19
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:59
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:99
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:136
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:173
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:210
+msgid "Parent Category:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:20
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:60
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:100
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:137
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:174
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:211
+msgid "New Category Name"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:21
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:61
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:101
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:138
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:175
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:212
+msgid "Add New Category"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:22
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:62
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:102
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:139
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:176
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:213
+msgid "Edit Category"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:23
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:63
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:103
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:140
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:177
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:214
+msgid "Update Category"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:24
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:64
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:104
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:141
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:178
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:215
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:25
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:65
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:105
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:142
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:179
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:216
+msgid "Search Categories"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:26
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:66
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:106
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:143
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:180
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:217
+msgid "Add or remove Categories"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:27
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:67
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:107
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:144
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:181
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/taxonomies.php:218
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:296
+msgid "Unable to find validation rules"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:498
+msgid "The field was not set"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:640
+msgid "Unable to access an error message corresponding to your field name."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1279
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1280
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1281
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1282
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1283
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1284
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1285
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1286
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1287
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1288
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1289
+#, php-format
+msgid "The %s field may only contain alph-space characters."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1290
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1291
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1292
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1293
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1294
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1295
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1296
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1297
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1298
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1299
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1300
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1301
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/helpers/validation.php:1302
+#, php-format
+msgid "The %s field must contain a file extension %s."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:67
+msgid "No Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:152
+msgid "Home"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:199
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:200
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:201
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:202
+msgid "Archive for "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:203
+msgid "Search Results for "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:204
+msgid "404 - Not Found"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:222
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:253
+msgid "You must agreed the policy"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:265
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:269
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:337
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:349
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:392
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:922
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:566
+msgid "URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:340
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:352
+msgid "Comment"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:353
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:354
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:355
+msgid "Your email address will not be published."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:356
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:359
+msgid "Leave a Reply"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:360
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:361
+msgid "Cancel reply"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:362
+msgid "Post Comment"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:560
+msgid "Namcontact_messagee"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:586
+#, php-format
+msgid ""
+"Thank you <strong>%s</strong> for using our contact form! Your email was "
+"successfully sent and we will be in touch with you soon."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:589
+msgid "SUCCESS! "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:799
+msgid "Poor"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:799
+msgid "Satisfactory"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:799
+msgid "Good"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:799
+msgid "Better"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:799
+msgid "Awesome"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/functions.php:821
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:9
+msgid "Arkitekt Post Tabs "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:9
+msgid "Fetch the latest , Popular posts in tabber form"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:87
+msgid "Popular"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:88
+msgid "Recent"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:89
+msgid "Comments"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:92
+msgid "Label for Popular Tab:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:96
+msgid "No. of Popular Posts:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:101
+msgid "Label for Recent Tab:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:106
+msgid "No. of Latest Posts:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:111
+msgid "Label for Comments Tab:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:116
+msgid "No. of Latest Comments:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:149
+msgid "Arkitekt Accordion Posts "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:149
+msgid "Show the posts by Accordion"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:195
+msgid "Accordion Posts"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:200
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:364
+msgid "Title: "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:204
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:368
+msgid "No. of Posts:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:242
+msgid "Arkitekt Contact us"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:242
+msgid "Contact us form"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:294
+msgid "Send us a Message"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:298
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:451
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:518
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:595
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:670
+msgid "Title:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:302
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:459
+msgid "Email ID:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:317
+msgid "Arkitekt Recent Posts "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:317
+msgid "Show the recent posts with images"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:359
+msgid "Recent Posts"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:408
+msgid "Arkitekt Contact Info"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:408
+msgid "Give the Contact Info"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:446
+msgid "Contact info"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:455
+msgid "Phone#:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:474
+msgid "Arkitekt Tweets"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:474
+msgid "Gryvh the latest tweets from twitter"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:513
+msgid "Recent Tweets"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:522
+msgid "Twitter ID:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:526
+msgid "Number of Tweets:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:541
+msgid "Arkitekt News Letter"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:541
+msgid "News Letter"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:560
+msgid "your.address@email.com"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:563
+msgid "Submit"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:589
+msgid "NEWSLETTER SIGNUP"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:599
+msgid "Text:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:603
+msgid "Feedburner ID:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:617
+msgid "Arkitekt Flickr Feed"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:617
+msgid "Fetch the latest feed from Flickr"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:665
+msgid "Flicker"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:675
+msgid "Flickr ID:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/library/widgets.php:679
+msgid "Number of Images:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader
+#: 01.php:163 01.php:164
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:162
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:163
+msgid "Theme Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader
+#: 01.php:167
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:166
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:82
+msgid "Facebook"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader
+#: 01.php:167
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:166
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:89
+msgid "Twitter"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader
+#: 01.php:167
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:166
+msgid "Dribble"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader
+#: 01.php:167
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:166
+msgid "Github"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader
+#: 01.php:168
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:167
+msgid "Flickr"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader
+#: 01.php:168
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:167
+msgid "Google+"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader
+#: 01.php:168
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/loader.php:167
+msgid "Youtube"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:6
+msgid "Service"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:6
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:8
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:10
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:6
+msgid "Services"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:14
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:16
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:403
+msgid "Portfolio"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:14
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:18
+msgid "Portfolios"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:23
+msgid "Testimonial"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:23
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:25
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:27
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:191
+msgid "Testimonials"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:32
+msgid "Member"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:32
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:36
+msgid "Members"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/post_types.php:34
+msgid "Teams"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:8
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:16
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:34
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:67
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:47
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:106
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:287
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:490
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:534
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:578
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:622
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:666
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:710
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:754
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:798
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:849
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1448
+msgid "Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:9
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:17
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:68
+msgid "Choose an sidebar for this deal"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:25
+msgid "Choos Font Awesome Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:26
+msgid "Choose an icon fron the font icons list"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:35
+msgid "Choose an sidebar for this service"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:43
+msgid "Start Date"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:44
+msgid "Choose start date of the deal"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:50
+msgid "End Date"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:51
+msgid "Choose end date of the deal"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:57
+msgid "Select Product"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:59
+msgid "Choose the products for this deal"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:74
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:368
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:437
+msgid "Designation"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:76
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:369
+msgid "Enter the designation of the member"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:84
+msgid "Enter the facebook url"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:91
+msgid "Enter the twitter url"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:96
+msgid "Google Plus"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:98
+msgid "Enter the google Plus url"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:103
+msgid "Project URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:105
+msgid "Enter the project url"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/settings.php:111
+msgid "Videos URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcode_output.php:9
+msgid "You do not have permission to edit posts."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcode_output.php:15
+msgid "Shortcodes created"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcode_output.php:26
+msgid "List of available Shortcodes"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcode_output.php:42
+msgid "Available parameters"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcode_output.php:57
+msgid "No parameters avaialble "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcode_output.php:59
+msgid "Insert Shortcode"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:15
+msgid "Number of Members"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:16
+msgid "Enter the number of members to show"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:22
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:52
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:89
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:24
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:88
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:152
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:225
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:289
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:371
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:421
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:460
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:539
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:725
+msgid "Order By"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:24
+msgid "Choose the Sorting ooption"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:30
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:59
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:96
+msgid "Order"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:32
+msgid "Whether sort by Ascending or Descending"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:39
+msgid "Enter the heading of services listing"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:45
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:82
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:294
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:314
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:410
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:454
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:16
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:80
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:144
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:217
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:281
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:363
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:413
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:452
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:531
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:717
+msgid "Number"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:46
+msgid "Enter the number of services posts to show"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:66
+msgid "Column Per Row"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:76
+msgid "Enter the heading of faqs listing"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:83
+msgid "Enter the number of faqs posts to show"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:103
+msgid "Heading"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:111
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:140
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:168
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:201
+msgid "Content"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:118
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:154
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:187
+msgid "First?"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:119
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:126
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:155
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:162
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:188
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:195
+msgid "False"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:119
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:126
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:155
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:162
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:188
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:195
+msgid "True"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:125
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:161
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:194
+msgid "Last?"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:132
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1294
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:255
+msgid "Type"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:133
+msgid "Check"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:133
+msgid "Arrow"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:133
+msgid "Arrow 2"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:133
+msgid "Arrow 3"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:134
+msgid "Arrow 4"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:134
+msgid "Star"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:134
+msgid "Plus"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:181
+msgid "Image URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:214
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:241
+msgid "Button Style"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:222
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:249
+msgid "Button Type"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:229
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:256
+msgid "Button id"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:263
+msgid "Icon Type"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:282
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:390
+msgid "Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:307
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:327
+msgid "Sort By"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:340
+msgid "Upload Image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:347
+msgid "Welcome Text"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:353
+msgid "Facebook Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:359
+msgid "Twitter Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:366
+msgid "Gplus Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:372
+msgid "GitHub Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:378
+msgid "Read More Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:403
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/shortcodes.php:447
+msgid "Sort By :"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/views/menu_fields.php:3
+msgid "Show Mega Menu Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/views/menu_fields.php:11
+msgid "Mega Menu"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/views/menu_fields.php:17
+msgid "Columns"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/resource/views/menu_fields.php:31
+msgid "Select Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:155
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/plugins.php:51
+msgid "Install Required Plugins"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:156
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/plugins.php:52
+msgid "Install Plugins"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:157
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/plugins.php:53
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/plugins.php:65
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1841
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/plugins.php:66
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1539
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1086
+msgid "External Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "Private Repository"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "Required"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "Recommended"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1104
+msgid "Not Installed"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1292
+msgid "Plugin"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+msgid "Source"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1295
+msgid "Status"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1313
+msgid "Install"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1314
+msgid "Activate"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1824
+msgid "Install package not available."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+msgid "Show Details"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+msgid "Hide Details"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/plugins.php:54
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/thirdparty/tgm-plugin-activation/plugins.php:67
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:6
+msgid "Post Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:15
+msgid "General Post Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:22
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:82
+msgid "Page Layout"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:23
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1425
+msgid "Choose the layout for blog pages"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:27
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:87
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:476
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:520
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:564
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:608
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:652
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:696
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:740
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:784
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:835
+msgid "Left Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:32
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:92
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:481
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:525
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:569
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:613
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:657
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:701
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:745
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:789
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:840
+msgid "Right Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:37
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:97
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:470
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:514
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:558
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:602
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:646
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:690
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:734
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:778
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:829
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1439
+msgid "Full Width"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:54
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:267
+msgid "Video Embed Code"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:56
+msgid "If post format is video then this embed code will be used in content"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:61
+msgid "Audio Embed Code"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:63
+msgid "If post format is AUDIO then this embed code will be used in content"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:75
+msgid "Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:83
+msgid "Choose the layout for pages"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:116
+msgid "Download Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:123
+msgid "Sub Title"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:129
+msgid "Featured Image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:131
+msgid "Featured image for detail download page"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:136
+msgid "Demo Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:142
+msgid "Current Version"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:148
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:304
+msgid "Release Date"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:150
+msgid "Please choose the item release date"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:155
+msgid "Update Date"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:157
+msgid "Please choose the date when the item is updated"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:162
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:322
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:430
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:26
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:90
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:154
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:227
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:291
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:373
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:423
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:462
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:541
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:727
+msgid "Author"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:164
+msgid "Enter item' Author Name"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:169
+msgid "Requirements"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:171
+msgid "Please enter the neccessory things required for this item"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:176
+msgid "Show Item Features"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:182
+msgid "Feature Label"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:183
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:205
+msgid "Item Features"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:192
+msgid "Feature Sub Label"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:193
+msgid "Lets see all item features & updates below"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:216
+msgid "Features"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:222
+msgid "Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:224
+msgid "Choose icon that best represent the item feature"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:229
+msgid "Feature Description"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:242
+msgid "Portfolio Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:250
+msgid "Portfolio Type"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:258
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:179
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:316
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/tpl-wishlist.php:39
+msgid "Image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:259
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:132
+msgid "Slider"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:260
+msgid "Video"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:262
+msgid "Choose the portfolio Type"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:268
+msgid "Enter the video embed code"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:282
+msgid "Portfolio Information"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:294
+msgid "Content Position"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:296
+msgid "Left"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:297
+msgid "Right"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:310
+msgid "Client Name"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:316
+msgid "Client URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:328
+msgid "Webstie URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:338
+msgid "Skills"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:343
+msgid "Skill"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:362
+msgid "Team Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:378
+msgid "Social icons"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:398
+msgid "Social icon"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:399
+msgid "Choose the social icon from the list"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:424
+msgid "Testimonials Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:443
+msgid "Company"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:454
+msgid "Partner Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:461
+msgid "Partner URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:470
+msgid "Service Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/metabox/meta_boxes.php:479
+msgid "Service Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:4
+msgid "Arkitekt Theme Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:8
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:13
+msgid "General Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:21
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:28
+msgid "Color Scheme"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:23
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:430
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:895
+msgid "This section is used for theme color settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:29
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:436
+msgid "Choose the default color scheme for the theme."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:39
+msgid "Boxed Version for Whole Website"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:40
+msgid "Enable or disable boxed version for all pages"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:46
+msgid "Dark Version for Whole Website"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:47
+msgid "Enable or disable darked version for all pages"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:52
+msgid "Twitter Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:54
+msgid "This section contain the information about twitter api settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:59
+msgid "API Key"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:60
+msgid ""
+"Enter the twitter API key, You can get the api at http://developer.twitter."
+"com"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:66
+msgid "API Secret"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:67
+msgid "Enter the API secret"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:73
+msgid "Token"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:74
+msgid "Enter the twitter api token"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:80
+msgid "Token Secret"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:81
+msgid "Enter the API token secret"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:94
+msgid "Header Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:102
+msgid "Top bar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:104
+msgid "This section is used for top bar menues"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:109
+msgid "Policy Page"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:110
+msgid ""
+"choose policy page to show in header area, left it if you don't want to show "
+"poclicy link in header"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:123
+msgid "About Us"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:124
+msgid ""
+"choose About us page to show in header area, left it if you don't want to "
+"show About us link in header"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:137
+msgid "login"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:138
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:152
+msgid ""
+"choose login page to show in header area, left it if you don't want to show "
+"login link in header"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:151
+msgid "contact us"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:170
+msgid "Logo Type"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:171
+msgid "Choose logo type"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:178
+msgid "Logo with Image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:188
+msgid "Logo Image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:189
+msgid "Inser the logo image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:195
+msgid "Logo Width"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:196
+msgid "choose the logo width"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:204
+msgid "Logo Height"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:205
+msgid "choose the logo height"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:215
+msgid "Custom Logo Text"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:225
+msgid "Logo Heading"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:226
+msgid "Enter the website heading instead of logo"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:232
+msgid "Logo Font Size"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:233
+msgid "Choose the logo font size"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:241
+msgid "Logo Font Face"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:242
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:297
+msgid "Select Font"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:255
+msgid "Logo Font Style"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:256
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:311
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1123
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1199
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1275
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1366
+msgid "Select Font Style"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:273
+msgid "Logo Color"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:274
+msgid "Choose the default color for logo."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:280
+msgid "Slogan Heading"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:281
+msgid "Enter the slogan"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:287
+msgid "Slogan Font Size"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:288
+msgid "Choose the slogan font size"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:296
+msgid "Slogan Font Face"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:310
+msgid "Slogan Font Style"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:328
+msgid "Slogan Color"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:329
+msgid "Choose the default color for slogan."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:337
+msgid "Header CSS"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:338
+msgid "Write your custom css to include in header."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:345
+msgid "Header JS"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:346
+msgid "Write your custom js to include in header."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:356
+msgid "Footer Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:364
+msgid "Info Box"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:365
+msgid "enable or disable info-box"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:372
+msgid "Info Items"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:374
+msgid "This section is used for info items"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:379
+msgid "Choos info icon"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:380
+msgid "Choose an icon from the font icons list"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:386
+msgid "Info Text"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:396
+msgid "Widget Area"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:397
+msgid "Show or hide widget area in footer"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:403
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:404
+msgid "Enter the copyright text to show in footer area"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:410
+msgid "Footer JS"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:411
+msgid "Write your custom js to include in footer."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:420
+msgid "Sidebar Creator"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:428
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:437
+msgid "Dynamic Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:435
+msgid "Sidebar Name"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:450
+msgid "Sidebar Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:458
+msgid "404 Sidebar Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:460
+msgid "This section contains 404 sidebar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:465
+msgid "404 Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:491
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:535
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:579
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:623
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:667
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:711
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:755
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:799
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:850
+msgid "Choose an sidebar for this"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:502
+msgid "Category Sidebar Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:504
+msgid "This section contains category sidebar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:509
+msgid "Category Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:546
+msgid "Archive Sidebar Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:548
+msgid "This section contains Archive Sidebar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:553
+msgid "Archive Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:590
+msgid "Author Sidebar Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:592
+msgid "This section contains Author Sidebar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:597
+msgid "Author Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:634
+msgid "Search Sidebar Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:636
+msgid "This section contains Search Sidebar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:641
+msgid "Search Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:678
+msgid "Tag Sidebar Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:680
+msgid "This section contains Tag Sidebar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:685
+msgid "Tag Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:722
+msgid "Single post page sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:724
+msgid "This section contains Single post page Sidebar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:729
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:773
+msgid "Product Category Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:766
+msgid "Product Category Sidebar Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:768
+msgid "This section contains Product Category Sidebar settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:811
+msgid "Shop Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:817
+msgid "Shop page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:819
+msgid "Set the sidebar for Shop page"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:824
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:861
+msgid "Contact Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:868
+msgid "Captcha Status"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:875
+msgid "Google Map Code"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:884
+msgid "Socializing Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:893
+msgid "Social Icons"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:900
+msgid "Social Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:937
+msgid "404 Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:948
+msgid "404 Not Found"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:953
+msgid "404 Message"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:961
+msgid "404 Image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1066
+msgid "Font Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1073
+msgid "Heading Font"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1082
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1325
+msgid "Use Custom Font"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1083
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1326
+msgid "Use custom font or not"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1087
+msgid "H1 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1089
+msgid "heading 1 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1097
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1173
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1249
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1340
+msgid "Font Size"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1099
+msgid "Choose the font size for h1"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1106
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1182
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1258
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1349
+msgid "Font Family"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1108
+msgid "Select the font family to use for h1"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1122
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1198
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1274
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1365
+msgid "Font Style"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1140
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1216
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1292
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1383
+msgid "Font Weight"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1141
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1217
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1293
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1384
+msgid "Select Font Weight"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1155
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1231
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1307
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1398
+msgid "Font Color"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1156
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1232
+msgid "Choose the font color for heading h1"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1163
+msgid "H2 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1165
+msgid "heading h2 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1175
+msgid "Choose the font size for h2"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1184
+msgid "Select the font family to use for h2"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1239
+msgid "H3 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1241
+msgid "heading h3 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1251
+msgid "Choose the font size for h3"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1260
+msgid "Select the font family to use for h3"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1308
+msgid "Choose the font color for heading h3"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1318
+msgid "Body Font"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1330
+msgid "Body Font Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1332
+msgid "body font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1342
+msgid "Choose the font size for body area"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1351
+msgid "Select the font family to use for body"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1399
+msgid "Choose the font color for heading body"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1416
+msgid "Blog Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1424
+msgid "Blog Listing Layout"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1429
+msgid "Blog with Left Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/option/option.php:1434
+msgid "Blog with Right Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:15
+msgid "WP Visual Editor"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:23
+msgid "Radio Button"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:42
+msgid "Checkbox"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:62
+msgid "Select"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:81
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:86
+msgid "Multiselect"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:106
+msgid "Color"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:112
+msgid "Sorter"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:140
+msgid "Upload"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:145
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:26
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:90
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:154
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:227
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:291
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:373
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:423
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:462
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:541
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:727
+msgid "Date"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:150
+msgid "Textarea"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:156
+msgid "Check Image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:160
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:188
+msgid "Label 1"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:165
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:193
+msgid "Label 2"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:170
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:198
+msgid "Label 3"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:175
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:203
+msgid "Label 4"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:184
+msgid "Radio Image"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:212
+msgid "Code Editor"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:218
+msgid "Toggle"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:236
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:397
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:488
+msgid "Color Accent"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:263
+msgid "Background Image URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:268
+msgid "Background Image Repeat"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:287
+msgid "Background Image Attachment"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:306
+msgid "Background Image Position"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:349
+msgid "Background Image Size"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:370
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes2.php:14
+msgid "Column"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:377
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes2.php:28
+msgid "Offset"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:425
+msgid "Text Color"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:430
+msgid "Background Color"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:435
+msgid "Button URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:452
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes2.php:43
+msgid "Size"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:471
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:507
+msgid "Icon name"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:524
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:545
+msgid "ID"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:529
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:550
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:571
+msgid "Width"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:534
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:555
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:576
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:581
+msgid "Height"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:586
+msgid "Autoplay"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes1.php:591
+msgid "Show Comments"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes2.php:9
+msgid "Row"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes2.php:20
+msgid "Grid"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/admin/shortcode_generator/shortcodes2.php:37
+msgid "Inner Spacer"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/bootstrap.php:83
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:356
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:381
+msgid "Successful"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/bootstrap.php:94
+msgid "Unauthorized function"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/metabox.php:564
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/metabox/alchemy.php:493
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/classes/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/metabox.php:586
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:55
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:56
+msgid "Vafpress Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:62
+msgid "Option Key is required"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:64
+msgid "Template Array/File is required"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:66
+msgid "Page Slug is required"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:168
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:298
+msgid "Can not be empty"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:323
+msgid "Invalid data"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:386
+msgid "Unverified Access."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:452
+msgid "Invalid template supplied"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:465
+msgid "Utility"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:471
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/restore.php:38
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option.php:480
+msgid "Export/Import"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/shortcodegenerator.php:259
+msgid "insert"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/classes/shortcodegenerator.php:260
+msgid "cancel"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/control/upload.php:5
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/impexp.php:4
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/impexp.php:14
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/impexp.php:4
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/impexp.php:7
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/impexp.php:27
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/impexp.php:37
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/impexp.php:27
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/impexp.php:30
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/restore.php:4
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/restore.php:14
+msgid "Import Demo Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/restore.php:7
+msgid ""
+"Demo settings will import \"theme options\", \"widgets\", \"revolution slider"
+"\" and \"visual composer templates\""
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/restore.php:16
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/restore.php:39
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/restore.php:29
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/restore.php:32
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/set.php:69
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/set.php:84
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/set.php:69
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/set.php:70
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/set.php:85
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/set.php:70
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vafpress/views/option/set.php:93
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:9
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:57
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:121
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:194
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:258
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:340
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:406
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:445
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:485
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:524
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:571
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:636
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:677
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:710
+msgid "arkitekt"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:18
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:82
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:219
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:283
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:365
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:533
+msgid "Enter the number of work to show"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:26
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:90
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:154
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:227
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:291
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:373
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:423
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:462
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:541
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:727
+msgid "Comment Count"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:26
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:90
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:154
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:227
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:291
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:373
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:423
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:462
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:541
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:727
+msgid "Random"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:27
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:36
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:91
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:100
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:155
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:164
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:228
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:237
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:292
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:301
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:374
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:383
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:424
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:433
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:463
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:472
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:542
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:551
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:728
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:737
+msgid "Enter the sorting order."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:33
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:97
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:161
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:234
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:298
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:380
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:430
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:469
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:548
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:734
+msgid "Sorting Order"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:35
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:99
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:163
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:236
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:300
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:382
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:432
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:471
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:550
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:736
+msgid "Ascending"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:35
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:99
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:163
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:236
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:300
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:382
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:432
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:471
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:550
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:736
+msgid "Descending"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:45
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:109
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:173
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:246
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:310
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:392
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:560
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:746
+msgid "Choose Category."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:54
+msgid "Recent Work"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:66
+msgid "Enter title for Portfolio section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:72
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:136
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:209
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:273
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:355
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:501
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:587
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:652
+msgid "Subtitle"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:74
+msgid "Enter sub title for Portfolio section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:118
+msgid "why choose us"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:130
+msgid "Enter title for why choose section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:138
+msgid "Enter sub title for why choose section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:146
+msgid "Enter the number of service to show"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:181
+msgid "Choose the section Image."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:203
+msgid "Enter title for Testimonials section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:211
+msgid "Enter sub title for Testimonials section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:255
+msgid "Team"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:267
+msgid "Enter title for Team section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:275
+msgid "Enter sub title for Team section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:318
+msgid "Choose the section background Image."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:324
+msgid "Show slider?"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:327
+msgid "Whether to show the slider or not"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:337
+msgid "Recent post"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:349
+msgid "Enter title for recent posts section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:357
+msgid "Enter sub title for recent posts section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:415
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:454
+msgid "Enter the number of portfolio to show"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:442
+msgid "Portfolio full"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:482
+msgid "What we offer"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:495
+msgid "Enter title for Services section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:503
+msgid "Enter sub title for services section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:512
+msgid "Enter Text For Services Blog section"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:521
+msgid "Services Blog"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:581
+msgid "Enter title for contact info"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:589
+msgid "Enter sub title for contact info"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:597
+msgid "Enter Text For contact info"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:603
+msgid "Address"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:605
+msgid "Enter address to contact"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:611
+msgid "Phone"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:613
+msgid "Enter phone to contact"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:621
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:663
+msgid "Enter email to contact"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:633
+msgid "Contact Form"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:646
+msgid "Enter title for contact form"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:654
+msgid "Enter sub title for contact form"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:674
+msgid "Google Map"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:685
+msgid "Latitude"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:687
+msgid "Enter latitude"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:694
+msgid "Longitude"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:696
+msgid "Enter the longitude"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:707
+msgid "Blog"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:719
+msgid "Enter the number of posts to show"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:776
+msgid "Fun Facts kamran"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:782
+msgid "show fun facts"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:789
+msgid "Enter the title for fun facts area"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:793
+msgid "Description"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:795
+msgid "Enter the description for fun facts area"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:815
+msgid "Enter the title for fact"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:819
+msgid "Value"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:821
+msgid "Enter the value for the fact"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:825
+msgid "Icons"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:828
+msgid "Choose the icon for fun fact"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:924
+msgid "Container"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vc_map.php:927
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/includes/vp_new/classes/alchemy.php:515
+msgid "Add More "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/index.php:25
+msgid "Blog Archives"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/single-sh_portfolio.php:28
+msgid "Item Details"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/single-sh_portfolio.php:34
+msgid "Client:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/single-sh_portfolio.php:41
+msgid "Skills: "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/single-sh_portfolio.php:52
+msgid "Author Name:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/single-sh_portfolio.php:55
+msgid "Author URI:"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/single-sh_portfolio.php:59
+msgid "Release Date: "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/single.php:41
+msgid "Pages: "
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/single.php:46
+#, php-format
+msgid "Discussion on %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/tag.php:12
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/tpl-wishlist.php:41
+msgid "Direct Link"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/tpl-wishlist.php:42
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/tpl-wishlist.php:57
+msgid "Delete"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/tpl-wishlist.php:55
+msgid "View"
+msgstr ""
+
+#: E:\xampp\htdocs\arkitekt\wp-content\themes\arkitekt/tpl-wishlist.php:69
+#, php-format
+msgid ""
+"To view this page sign in at <a href=\"%s\" title=\"Account Page\">Account "
+"Page</a>"
+msgstr ""
