@@ -2031,7 +2031,7 @@ aside .widget > h3,
 /*-------------------------------------------------*/
 /* = About/*-------------------------------------------------*/
 .head-banner {
-	background:url(../images/banner.jpg) repeat-x;
+	background:#6D4A37;
 }
 .head-banner h4 {
 	font-size:18px;
@@ -2249,13 +2249,16 @@ aside .widget > h3,
 }
 .service-welcome p {
 	font-weight:300;
-	font-size:20px;
+	font-size:14px;
 	color:#8b8b8b;
 	margin-bottom:25px;
 	line-height:24px;
 }
 .service-welcome p span {
 	color:#0088C2;
+}
+.page-id-42 .service-welcome p:first-child{
+	margin-bottom: 40px
 }
 .services {
 	border-bottom:1px solid #e5e5e5;

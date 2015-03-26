@@ -1,0 +1,3 @@
+# Ignore PhpStorm project files
+.idea
+wp-config.php
