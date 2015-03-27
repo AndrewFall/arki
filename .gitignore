@@ -1,3 +1,5 @@
 # Ignore PhpStorm project files
 .idea
+.htaccess
 wp-config.php
+*~

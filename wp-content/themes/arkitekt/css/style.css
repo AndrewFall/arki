@@ -33,7 +33,7 @@ table {
 }
 
 .no-margin { margin: 0 !important; }
-p{ font-size:14px; font-weight:200;} 
+p{ font-size:14px; font-weight:200;}
 
 
 
@@ -1632,7 +1632,7 @@ aside .search input[type="submit"] {
 
 aside .widget > h3,
 .text-widget h3,.widget_text h3 {
-	
+
 	margin:20px 0;
 	font: inherit;
 	font-weight:normal;
@@ -1648,7 +1648,7 @@ aside .widget > h3,
 	border:1px solid #eeeeee;
 }
 .widget-tags,.widget_tag_cloud {
-	
+
 }
 
 .filter-container .desc {
@@ -1773,7 +1773,7 @@ aside .widget > h3,
 /* = Home Boxed/*-------------------------------------------------*/
 .boxed {
 
-	background: url(../images/boxed-bg.jpg) no-repeat center center fixed; 
+	background: url(../images/boxed-bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2191,6 +2191,7 @@ aside .widget > h3,
 	-moz-transition:all 0.2s ease-in-out;
 	-webkit-transition:all 0.2s ease-in-out;
 	-o-transition:all 0.2s ease-in-out;
+  min-height: 176px;
 }
 .service-item i {
 	font-size:30px;
@@ -2223,6 +2224,12 @@ aside .widget > h3,
 }
 .service-item:hover span {
 	color:#fff;
+}
+.page-id-42 .fun-facts .column3:nth-child(2):hover .service-item>span
+.page-id-42 .fun-facts .column3:nth-child(3):hover .service-item>span{
+  height: 145px;
+  display: table-cell;
+  vertical-align: middle;
 }
 .service-tabs .tab-links li {
 	float:left;
@@ -2257,8 +2264,8 @@ aside .widget > h3,
 .service-welcome p span {
 	color:#0088C2;
 }
-.page-id-42 .service-welcome p:first-child{
-	margin-bottom: 40px
+.page-id-42 .service-welcome p:nth-child(3) {
+  margin-bottom: 35px;
 }
 .services {
 	border-bottom:1px solid #e5e5e5;
@@ -2998,7 +3005,7 @@ footer .submit-area {
     margin: 0 9px 10px 0;
     padding: 10px;
 	}
-.column3.widget_tag_cloud a:hover{border: 1px solid #0088C2 !important;}	
+.column3.widget_tag_cloud a:hover{border: 1px solid #0088C2 !important;}
 .tags a:hover,.widget_tag_cloud a:hover {
 	border: 1px solid #0088C2;
 }
@@ -3279,20 +3286,20 @@ footer .submit-area {
 }
 .preloader img {
 	-webkit-backface-visibility: hidden;
-} 
+}
 
 
 div.caroufredsel_wrapper {
 min-height: 363px;
 }
 /*----------------------custome css--------------------------*/
-.tweets-shortcode li{ 
-	list-style-type:none;	
+.tweets-shortcode li{
+	list-style-type:none;
 	margin-bottom: 10px;
     margin-top: 3px;
     width: 100%;
 }
-.tweets-shortcode li span{ 
+.tweets-shortcode li span{
 	color: #fff;
     font-family: 'Roboto';
     font-size: 13px;
@@ -3323,10 +3330,10 @@ min-height: 363px;
 .woocommerce .woocommerce-ordering, .woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-ordering, .woocommerce-page .woocommerce-result-count1{
 	margin-bottom:0px;
 }
-.grid-item:nth-child(3n+1){ margin-left:0px !important;} 
+.grid-item:nth-child(3n+1){ margin-left:0px !important;}
 h1.product_title{ margin:15px 15px 25px 0px; font-weight:bold;}
 .tabs .entry-content p,
-.summary div p{ margin-bottom:20px; line-height:1.5em; display:block; font-size:14px; font-weight:200;} 
+.summary div p{ margin-bottom:20px; line-height:1.5em; display:block; font-size:14px; font-weight:200;}
 .summary p.price{ margin-top:30px; margin-bottom:30px; display:inline-block;}
 .woocommerce #content div.product form.cart .button, .woocommerce div.product form.cart .button, .woocommerce-page #content div.product form.cart .button, .woocommerce-page div.product form.cart .button{
 	margin-left:20px;
@@ -3474,50 +3481,50 @@ body > .loading {
 }
 
 #wp-calendar caption {
-	text-align: right; 
-	color: #333; 
-	font-size: 12px; 
+	text-align: right;
+	color: #333;
+	font-size: 12px;
 	margin-top: 10px;
 	margin-bottom: 15px;
 }
 
-#wp-calendar thead { 
+#wp-calendar thead {
 	font-size: 10px;
 }
 
-#wp-calendar thead th { 
+#wp-calendar thead th {
 	padding-bottom: 10px;
 }
 
-#wp-calendar tbody { 
-	color: #aaa; 
+#wp-calendar tbody {
+	color: #aaa;
 }
 
-#wp-calendar tbody td { 
-	background: #f5f5f5; 
-	border: 1px solid #fff; 
-	text-align: center; 
+#wp-calendar tbody td {
+	background: #f5f5f5;
+	border: 1px solid #fff;
+	text-align: center;
 	padding:8px;
 }
 
-#wp-calendar tbody td:hover { 
-	background: #fff; 
+#wp-calendar tbody td:hover {
+	background: #fff;
 }
 
-#wp-calendar tbody .pad { 
-	background: none; 
+#wp-calendar tbody .pad {
+	background: none;
 }
 
-#wp-calendar tfoot #next { 
-	font-size: 10px; 
-	text-transform: uppercase; 
+#wp-calendar tfoot #next {
+	font-size: 10px;
+	text-transform: uppercase;
 	text-align: right;
 }
 
-#wp-calendar tfoot #prev { 
-	font-size: 10px; 
-	text-transform: uppercase; 
-	padding-top: 10px; 
+#wp-calendar tfoot #prev {
+	font-size: 10px;
+	text-transform: uppercase;
+	padding-top: 10px;
 }
 
 .widget select {
@@ -3618,17 +3625,17 @@ blockquote .small:before {
 
 }
 
-.blog-content table > thead > tr > th, 
-.blog-content table > tbody > tr > th, 
-.blog-content table > tfoot > tr > th, 
-.blog-content table > thead > tr > td, 
-.blog-content table > tbody > tr > td, 
+.blog-content table > thead > tr > th,
+.blog-content table > tbody > tr > th,
+.blog-content table > tfoot > tr > th,
+.blog-content table > thead > tr > td,
+.blog-content table > tbody > tr > td,
 .blog-content table > tfoot > tr > td,
-.comments_text table > thead > tr > th, 
-.comments_text table > tbody > tr > th, 
-.comments_text table > tfoot > tr > th, 
-.comments_text table > thead > tr > td, 
-.comments_text table > tbody > tr > td, 
+.comments_text table > thead > tr > th,
+.comments_text table > tbody > tr > th,
+.comments_text table > tfoot > tr > th,
+.comments_text table > thead > tr > td,
+.comments_text table > tbody > tr > td,
 .comments_text table > tfoot > tr > td {
 	padding: 8px;
 	line-height: 1.42857143;
@@ -3646,7 +3653,7 @@ article.generalbox {
 .commentlist .bypostauthor {}
 
 .wp-caption {
-	
+
 	border: 1px solid #ddd;
 	text-align: left;
 	background-color: #f3f3f3;
@@ -3693,3 +3700,16 @@ article.generalbox {
 .wp-caption p.wp-caption-text { color: #000; margin-top: 10px; box-sizing: border-box; text-align: center; }
 
 .wp-caption img { display: block; border: 0 none; margin: 0; max-width: 100%; padding: 0; }
+
+.wpb_image_grid .wpb_image_grid_ul img{
+  margin: 0 auto;
+}
+
+.wpb_gallery.wrapper {
+  text-align: center;
+}
+
+.wpb_image_grid .wpb_image_grid_ul .isotope-item{
+  float:none!important;
+  position: relative!important;
+}
