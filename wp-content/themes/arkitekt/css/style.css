@@ -2624,10 +2624,16 @@ div.caption.modern_small_text_dark.lfb.tp-caption.start,div.caption.big_white.lf
 .comment-form {
 	overflow:hidden;
 }
+.page-id-48 #ninja_forms_field_1_div_wrap,
+.page-id-48 #ninja_forms_field_2_div_wrap,
+.page-id-48 #ninja_forms_field_9_div_wrap,
 .float-input {
 	position:relative;
 	padding-left:58px;
 }
+.page-id-48 #ninja_forms_field_1_div_wrap span.icon,
+.page-id-48 #ninja_forms_field_2_div_wrap span.icon,
+.page-id-48 #ninja_forms_field_9_div_wrap span.icon,
 .float-input span {
 	position:absolute;
 	width:58px;
@@ -2638,6 +2644,14 @@ div.caption.modern_small_text_dark.lfb.tp-caption.start,div.caption.big_white.lf
 	z-index:2;
 	text-align:center;
 }
+.page-id-48 #ninja_forms_field_1_div_wrap span.icon,
+.page-id-48 #ninja_forms_field_2_div_wrap span.icon,
+.page-id-48 #ninja_forms_field_9_div_wrap span.icon{
+  top:20px;
+}
+.page-id-48 #ninja_forms_field_1_div_wrap span.icon i,
+.page-id-48 #ninja_forms_field_2_div_wrap span.icon i,
+.page-id-48 #ninja_forms_field_9_div_wrap span.icon i,
 .float-input span i {
 	line-height:32px;
 	font-size:12px;
@@ -2657,6 +2671,9 @@ div.caption.modern_small_text_dark.lfb.tp-caption.start,div.caption.big_white.lf
 	-webkit-transition:all 0.2s ease-in-out;
 	-o-transition:all 0.2s ease-in-out;
 }
+.page-id-48 #ninja_forms_field_1_div_wrap input[type="text"],
+.page-id-48 #ninja_forms_field_2_div_wrap input[type="text"],
+.page-id-48 #ninja_forms_field_9_div_wrap input[type="text"],
 #contact-form input[type="text"],#contact-form textarea,.comment-form input[type="text"],.comment-form textarea {
 	color:#848484;
 	font-size:14px;
@@ -2679,6 +2696,9 @@ div.caption.modern_small_text_dark.lfb.tp-caption.start,div.caption.big_white.lf
 	-webkit-transition:all 0.2s ease-in-out;
 	-o-transition:all 0.2s ease-in-out;
 }
+.page-id-48 #ninja_forms_field_1_div_wrap input[type="text"]:focus+span.icon i,
+.page-id-48 #ninja_forms_field_2_div_wrap input[type="text"]:focus+span.icon i,
+.page-id-48 #ninja_forms_field_9_div_wrap input[type="text"]:focus+span.icon i,
 #contact-form input[type="text"]:focus+span i,.comment-form input[type="text"]:focus+span i {
 	color:#fff;
 	background:#0088C2;
@@ -3713,3 +3733,39 @@ article.generalbox {
   float:none!important;
   position: relative!important;
 }
+
+.page-id-44 .column6{
+  width: 100%;
+  margin: 0;
+}
+.page-id-44 .column6 .half{
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+}
+.page-id-44 .wpb_wrapper h3{
+  margin-bottom: 20px;
+}
+.page-id-44 .column6 h3{
+  background-color: #6D4A37;
+  line-height: 44px;
+  height: auto;
+  padding-left: 20px;
+  text-indent: -1000px;
+}
+.page-id-48 .contact-info {
+  margin-bottom: 50px;
+}
+.page-id-48 .m10{
+  margin-top: 5%;
+}
+#ninja_forms_form_1 i.fa{
+  display: inline-block;
+  width: 15%;
+}
+.page-id-48 #ninja_forms_field_1_label,
+.page-id-48 #ninja_forms_field_2_label,
+.page-id-48 #ninja_forms_field_9_label{
+  padding-left: 20px;
+}
+
