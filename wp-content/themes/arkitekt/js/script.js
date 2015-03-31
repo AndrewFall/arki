@@ -23,14 +23,14 @@ $(document).ready(function($) {
 	/*-------------------------------------------------*/
 	// Create the dropdown base
     $("<select />").appendTo("#nav");
-    
+
     // Create default option "Go to..."
     $("<option />", {
 		"selected": "selected",
 		"value"   : "",
 		"text"    : "Go to..."
     }).appendTo("#nav select");
-    
+
     // Populate dropdown with menu items
     $(".sf-menu a").each(function() {
 		var el = $(this);
@@ -60,7 +60,7 @@ $(document).ready(function($) {
 	} catch(err) {
 
 	}
-	
+
 	/*-------------------------------------------------*/
 	/* =  Scroll to TOP
 	/*-------------------------------------------------*/
@@ -82,8 +82,8 @@ $(document).ready(function($) {
 		$(this).removeClass('error');
 		if($(this).val().toLowerCase() === $(this).attr('data-value').toLowerCase()){
 			$(this).val('');
-		}	
-	}).blur( function(){ 
+		}
+	}).blur( function(){
 		if($(this).val() === ''){
 			$(this).val($(this).attr('data-value'));
 		}
@@ -103,12 +103,12 @@ $(document).ready(function($) {
 	});
 
 
-     $(document).ready(function () {           
+     $(document).ready(function () {
          $('.bxslider').bxSlider({
              mode: 'horizontal',
              slideMargin: 0,
              auto:false
-         });             
+         });
      });
 
 
@@ -127,7 +127,7 @@ $(document).ready(function($) {
 		next: '#next3',
 		  items: {
 			width: 300,
-			height: 'auto', 
+			height: 'auto',
 			visible: {
 			  min: 1,
 			  max: 5
@@ -205,7 +205,7 @@ $(document).ready(function($) {
 		var selector = $filter.find('a.active').attr('data-filter');
 
 		try {
-			$container.isotope({ 
+			$container.isotope({
 				filter	: selector,
 				animationOptions: {
 					duration: 750,
@@ -217,13 +217,13 @@ $(document).ready(function($) {
 		}
 		return false;
 	});
-	
-	// Isotope Filter 
+
+	// Isotope Filter
 	$filter.find('a').click(function(){
 		var selector = $(this).attr('data-filter');
 
 		try {
-			$container.isotope({ 
+			$container.isotope({
 				filter	: selector,
 				animationOptions: {
 					duration: 750,
@@ -267,24 +267,24 @@ $(document).ready(function($) {
 	});
 
 
-	
+
 
 	/* ---------------------------------------------------------------------- */
 	/*	Portfolio
 	/* ---------------------------------------------------------------------- */
-	
+
 	$('#filterOptions li a').click(function() {
 		// fetch the class of the clicked item
 		var ourClass = $(this).attr('class');
-		
+
 		// reset the active class on all the buttons
 		$('#filterOptions li').removeClass('active');
 		// update the active state on our clicked button
 		$(this).parent().addClass('active');
-		
+
 		if(ourClass == 'all') {
 			// show all our items
-			$('#ourHolder').children('div.item').show();	
+			$('#ourHolder').children('div.item').show();
 		}
 		else {
 			// hide all elements that don't share ourClass
@@ -316,13 +316,13 @@ $(document).ready(function($) {
 
 (function($){
 	"use strict";
-	var craper = {			
+	var craper = {
 			count: 0,
 			tweets: function( options, selector ){
-				
+
 				options.action = '_sh_ajax_callback';
 				options.subaction = 'tweets';
-			
+
 				$.ajax({
 					url: ajaxurl,
 					type: 'POST',
@@ -331,33 +331,33 @@ $(document).ready(function($) {
 					success: function(res){
 
 						var reply = res;
-						
+
 						var html = '';
-						
+
 						/*$.each(reply, function(k, element) {
 							html += '<li>'+element.text+'</li>';
 						});*/
-						
-						$(selector).html( res );	
-						
+
+						$(selector).html( res );
+
 					}
 				});
-				
+
 			},
-			
+
 			wishlist: function(options, selector)
 			{
 				options.action = '_sh_ajax_callback';
-				
+
 				if( $(selector).data('_sh_add_to_wishlist') === true ){
 					craper.msg( 'You have already done this job', 'error' );
 					return;
 				}
-				
+
 				$(selector).data('_sh_add_to_wishlist', true );
 
 				craper.loading(true);
-				
+
 				$.ajax({
 					url: ajaxurl,
 					type: 'POST',
@@ -386,14 +386,14 @@ $(document).ready(function($) {
 								$(selector).parents('tr').remove();
 								craper.msg( newjason.msg, 'success' );
 							}
-							
-							
+
+
 						}
 						catch(e){
 							craper.loading(false);
 							$(selector).data('_sh_add_to_wishlist', false );
 							craper.msg( 'There was an error while adding product to whishlist '+e.message, 'error' );
-							
+
 						}
 					}
 				});
@@ -402,7 +402,7 @@ $(document).ready(function($) {
 				if( $('.loading' ).length === 0 ) {
 					$('body').append('<div class="loading" style="display:none;"></div>');
 				}
-				
+
 				if( show === true ){
 					$('.loading').show('slow');
 				}
@@ -410,45 +410,45 @@ $(document).ready(function($) {
 					$('.loading').hide('slow');
 				}
 			},
-			
+
 			msg: function( msg, type ){
 				if( $('#pop' ).length === 0 ) {
 					$('body').append('<div style="display: none;" id="pop"><div class="pop"><div class="alert"><p></p></div></div></div>');
 				}
 				var alert_type = 'alert-' + type;
-				
+
 				$('#pop > .pop p').html( msg );
 				$('#pop > .pop > .alert').addClass(alert_type);
-				
+
 				$('#pop').slideDown('slow').delay(5000).fadeOut('slow', function(){
 					$('#pop .pop .alert').removeClass(alert_type);
 				});
-				
-				
+
+
 			},
-			
-			
+
+
 		};
-	
+
 	$.fn.sh_tweets = function( options ){
-		
+
 		var settings = {
 				screen_name	:	'wordpress',
 				count		:	3,
 				template	:	'blockquote'
 			};
-			
+
 			options = $.extend( settings, options );
-			
+
 			craper.tweets( options, this );
 	};
-	
+
 	jQuery(document).ready(function($) {
             //$('.tweets-shortcode').sh_tweets();
-		
+
 		$('.add_to_wishlist, a[rel="product_del_wishlist"]').click(function(e) {
 			e.preventDefault();
-			
+
 			if( $(this).attr('rel') === 'product_del_wishlist' ){
 				if( confirm( 'Are you sure! you want to delete it' ) ){
 					var opt = {subaction:'wishlist_del', data_id:$(this).attr('data-id')};
@@ -458,11 +458,11 @@ $(document).ready(function($) {
 				var opt = {subaction:'wishlist', data_id:$(this).attr('data-id')};
 				craper.wishlist( opt, this );
 			}
-			
+
 		});/**wishlist end*/
-	
+
 	//Contact us Form
-	
+
 		$('#contact-form').submit(function(){
 
 			var action = $(this).attr('action');
@@ -475,7 +475,7 @@ $(document).ready(function($) {
 				.attr('disabled','disabled');
 
 			craper.loading(true);
-			
+
 			$.post(action, {
 				contact_name: $('#contact_name').val(),
 				contact_email: $('#contact_email').val(),
@@ -491,17 +491,17 @@ $(document).ready(function($) {
 			}
 		);
 
-		
+
 
 		return false;
 
 	});
-		
-	// Contact Form widget 
-	
-	
-	$('#contact').submit(function(){ 
-		
+
+	// Contact Form widget
+
+
+	$('#contact').submit(function(){
+
 		var action = $(this).attr('action');
 
 		$("#message").slideUp(750,function() {
@@ -534,7 +534,7 @@ $(document).ready(function($) {
 
 			}
 		);
-		
+
 			return false;
 		});
 
@@ -545,7 +545,7 @@ $(document).ready(function($) {
 
 			$('.lg-panel.htabs > a').removeClass('active');
 			$(this).addClass('active');
-			
+
 			if( id === 'grid' ) {
 				$('.product-grid.dark > .grid-item').css('display', 'block');
 				$('.product-grid.dark > .grid-item-list').css('display', 'none');
@@ -556,7 +556,53 @@ $(document).ready(function($) {
 			}
 		});
 
+    // Andrew's lines
+    $(".page-id-42 .fun-facts .column3:nth-child(2)").hover(
+      function() {
+        $(this).find("h3").toggle()
+        $(this).find(".service-item>span").text("Electriciens, Plombiers, chauffagistes, Cuisinistes").css({
+          "height":"122px",
+          "padding-top":"25px",
+          "display":"table-cell",
+          "vertical-align":"middle"
+        })
+      },
+      function() {
+        $(this).find("h3").toggle()
+        $(this).find(".service-item>span").text("partenaires").css({
+          "height":"auto",
+          "display":"inline",
+          "vertical-align":"inherit"
+        })
+      }
+    );
+    $(".page-id-42 .fun-facts .column3:nth-child(3)").hover(
+      function() {
+        $(this).find("h3").toggle()
+        $(this).find(".service-item>span").text("Tailleurs de Pierres, Maçons, Plâtriers, décorateurs, Peintres, Menuisiers").css({
+          "height":"122px",
+          "padding-top":"25px",
+          "display":"table-cell",
+          "vertical-align":"middle"
+        })
+      },
+      function() {
+        $(this).find("h3").toggle()
+        $(this).find(".service-item>span").text("compagnos").css({
+          "height":"auto",
+          "display":"inline",
+          "vertical-align":"inherit"
+        })
+      }
+    );
+
+    $(".page-id-48 #ninja_forms_field_1").after("<span class='icon'><i class='fa fa-user'></i></span>")
+    $(".page-id-48 .ninja-forms-field.ninja-forms-req.email").after("<span class='icon'><i class='fa fa-envelope-o'></i></span>")
+    $(".page-id-48 #ninja_forms_field_9").after("<span class='icon'><i class='fa fa-phone'></i></span>")
+
+    // End of Andrew's styles
+
 	});
-		
+
 })(jQuery);
 
