@@ -600,6 +600,8 @@ $(document).ready(function($) {
     $(".page-id-48 .ninja-forms-field.ninja-forms-req.email").after("<span class='icon'><i class='fa fa-envelope-o'></i></span>")
     $(".page-id-48 #ninja_forms_field_9").after("<span class='icon'><i class='fa fa-phone'></i></span>")
 
+    $("footer .column3.contact").removeClass("column3").addClass("column6")
+
     // End of Andrew's styles
 
 	});
