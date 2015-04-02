@@ -3271,14 +3271,19 @@ footer .submit-area {
 }
 .info-content {
 	clear:both;
-	background:#383e42;
+	background:#0088C2/*#383e42*/;
 	padding:20px 18px 4px;
 	width:265px;
 	position:absolute;
 	left:50%;
-	margin-left:-141px;
-	top:44px;
+	margin-left:-150px;
+	top:0px;
 	display:none;
+}
+.info-content .fa.fa-home {
+  height: 100%;
+  display: block;
+  float: left;
 }
 .info-content ul li {
 	color:#fff;
@@ -3751,8 +3756,12 @@ article.generalbox {
 .wpb_image_grid .wpb_image_grid_ul .isotope-item{
   float:none!important;
   position: relative!important;
+  top:0!important;
+  /*margin-bottom: 10px;*/
 }
-
+.vc_separator.galerie-separator h4{
+  font-size: 24px;
+}
 .page-id-44 .column6{
   width: 100%;
   margin: 0;
@@ -3789,6 +3798,9 @@ article.generalbox {
 }
 footer .column3.third-row{
   display: none;
+}
+footer .dark .column6{
+  text-align: center;
 }
 .f-phone{
   display: inline-block;
