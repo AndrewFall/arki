@@ -2569,10 +2569,10 @@ div.caption.modern_small_text_dark.lfb.tp-caption.start,div.caption.big_white.lf
 }
 .contact-info p {
 	color:#8b8b8b;
-	font-size:20px;
+	font-size:14px;
 	font-weight:300;
-	line-height:26px;
-	margin:0 0 20px;
+	line-height:16px;
+	margin:0 0 15px;
 }
 .contact-info p span {
 	color:#f95800;
@@ -2708,7 +2708,8 @@ div.caption.modern_small_text_dark.lfb.tp-caption.start,div.caption.big_white.lf
 	height:92px;
 	border:1px solid #eaeaea;
 }
-#contact-form input[type="submit"],.comment-form input[type="submit"],#contact input[type="submit"] {
+#contact-form input[type="submit"],.comment-form input[type="submit"],#contact input[type="submit"],
+#ninja_forms_field_5{
 	width:100%;
 	text-align:center;
 	color:#fff;
@@ -2725,9 +2726,11 @@ div.caption.modern_small_text_dark.lfb.tp-caption.start,div.caption.big_white.lf
 	-o-transition:all 0.2s ease-in-out;
 	cursor:pointer;
 }
-#contact-form input[type="submit"]:hover,.comment-form input[type="submit"]:hover,#contact input[type="submit"]:hover {
+#contact-form input[type="submit"]:hover,.comment-form input[type="submit"]:hover,#contact input[type="submit"]:hover,
+#ninja_forms_field_5:hover{
 	opacity:0.8;
 }
+#ninja_forms_field_5{height:auto}
 #contact-form .message,.comment-form .message,#contact .message {
 	height:20px;
 	font-size:13px;
@@ -2942,7 +2945,7 @@ footer .submit-area {
 	-moz-border-radius-bottomright:6px;
 	border-top-right-radius:6px;
 	border-bottom-right-radius:6px;
-	background:#434b51;
+	background:#0088C2;
 	color:#fff;
 	font-size:13px;
 	padding:9px;
@@ -2968,7 +2971,7 @@ footer .submit-area {
 	-moz-border-radius-bottomright:6px;
 	border-top-right-radius:6px;
 	border-bottom-right-radius:6px;
-	background:#434b51;
+	background:#0088C2;
 	color:#fff;
 	font-size:13px;
 	padding:9px;
@@ -3220,12 +3223,12 @@ footer .submit-area {
 	-o-transition:all 0.4s ease-in-out;
 }
 .info-box.active {
-	height:182px;
+	height:238px;
 }
 .info-box a.info-toggle {
 	position:absolute;
 	left:50%;
-	margin-left:-38px;
+	margin-left:-32px;
 	display:inline-block;
 	width:60px;
 	height:14px;
@@ -3276,8 +3279,8 @@ footer .submit-area {
 	width:265px;
 	position:absolute;
 	left:50%;
-	margin-left:-150px;
-	top:0px;
+	margin-left:-141px;
+	top:53px;
 	display:none;
 }
 .info-content .fa.fa-home {
@@ -3422,7 +3425,20 @@ td.product-thumbnail img{width:100px !important; height:auto !important;}
 .desc span a,.desc h4 a,.desc a{text-decoration:none !important; color:#fff !important;}
 .desc span a:hover,.desc h4 a:hover,.desc a:hover{text-decoration:underline !important;}
 .desc span a:visited,.desc h4 a:visited,.desc a:visited{color:#fff !important;}
-
+.filter-container .desc{text-indent:0;padding:0}
+.filter-container .desc span,
+.filter-container .desc h4{padding:0 20px;}
+.filter li{max-width: 255px;}
+.filter a{
+  padding:8px 20px;
+  height: 48px;
+  display: table-cell;
+  vertical-align: middle;
+}
+.filter li:first-child a{
+  padding: 20px 20px 20px 50px;
+  height: 24px;
+}
 .loading {
     background-color: rgba(0, 0, 0, 0.6);
     height: 100%;
@@ -3763,7 +3779,7 @@ article.generalbox {
   font-size: 24px;
 }
 .page-id-44 .column6{
-  width: 100%;
+  width: 50%;
   margin: 0;
 }
 .page-id-44 .column6 .half{
@@ -3775,11 +3791,11 @@ article.generalbox {
   margin-bottom: 20px;
 }
 .page-id-44 .column6 h3{
-  background-color: #6D4A37;
+  background-color: #0088C2;
   line-height: 44px;
   height: auto;
   padding-left: 20px;
-  text-indent: -1000px;
+  /*text-indent: -1000px;*/
 }
 .page-id-48 .contact-info {
   margin-bottom: 50px;
@@ -3806,3 +3822,28 @@ footer .dark .column6{
   display: inline-block;
   margin-right: 10px;
 }
+footer .dark{margin:0}
+footer .dark .column3{width:25%}
+#ninja_forms_form_1 .field-wrap.label-left .ninja-forms-field,
+#ninja_forms_form_1 .field-wrap.label-left .ninja-forms-star-rating-control{
+  margin-left:0
+}
+#ninja_forms_form_1 select#ninja_forms_field_6{
+  text-transform: lowercase;
+}
+.contact-info h3.main-title, .contact-box h3.main-title {
+  font-size: 100%;
+  border-bottom: 1px solid #EBEBEB;
+  padding-bottom: 10px;
+}
+.post-home,.post-phone,.post-mail{
+  vertical-align: top;
+  width: 22%;
+  display: inline-block;
+  margin:0 2% 0 0;
+}
+.post-home{
+  width: 42%;
+  padding-left: 21px;
+}
+.post-home i{margin-left: -21px}

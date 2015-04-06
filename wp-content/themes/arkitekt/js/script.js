@@ -561,7 +561,7 @@ $(document).ready(function($) {
       function() {
         $(this).find("h3").toggle()
         $(this).find(".service-item>span").text("Electriciens, Plombiers, chauffagistes, Cuisinistes").css({
-          "height":"122px",
+          "height":"121px",
           "padding-top":"25px",
           "display":"table-cell",
           "vertical-align":"middle"
@@ -580,7 +580,7 @@ $(document).ready(function($) {
       function() {
         $(this).find("h3").toggle()
         $(this).find(".service-item>span").text("Tailleurs de Pierres, Maçons, Plâtriers, décorateurs, Peintres, Menuisiers").css({
-          "height":"122px",
+          "height":"121px",
           "padding-top":"25px",
           "display":"table-cell",
           "vertical-align":"middle"
