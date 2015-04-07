@@ -3428,7 +3428,10 @@ td.product-thumbnail img{width:100px !important; height:auto !important;}
 .filter-container .desc{text-indent:0;padding:0}
 .filter-container .desc span,
 .filter-container .desc h4{padding:0 20px;}
-.filter li{max-width: 255px;}
+.page-id-43 .filter li{max-width: 255px;}
+.page-id-43 .filter li:nth-child(2) {
+  display: none;
+}
 .filter a{
   padding:8px 20px;
   height: 48px;
@@ -3779,7 +3782,7 @@ article.generalbox {
   font-size: 24px;
 }
 .page-id-44 .column6{
-  width: 50%;
+  width: 100%;
   margin: 0;
 }
 .page-id-44 .column6 .half{
