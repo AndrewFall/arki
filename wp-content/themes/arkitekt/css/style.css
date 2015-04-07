@@ -714,6 +714,14 @@ ul#navlist li a span {
 .features {
 	padding-top:60px;
 }
+.home .features{
+  text-align: center;
+}
+.home .dark [class*="column"]{
+  display: inline-block!important;
+  text-align: left;
+  float: none!important;
+}
 .feat-text {
 	background:#0088C2;
 	-webkit-border-radius:5px;
@@ -3847,3 +3855,4 @@ footer .dark .column3{width:25%}
   padding-left: 21px;
 }
 .post-home i{margin-left: -21px}
+.page-id-44 .half p{font-size: 18px;}
