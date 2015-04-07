@@ -3841,7 +3841,7 @@ footer .dark .column3{width:25%}
 }
 .post-home,.post-phone,.post-mail{
   vertical-align: top;
-  /*width: 22%;*/
+  width: 100%!important;
   display: inline-block;
   margin:0 2% 0 0;
 }
