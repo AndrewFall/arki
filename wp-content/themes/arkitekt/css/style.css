@@ -877,7 +877,7 @@ ul#navlist li a span {
 }
 .view .mask {
 	width:100%;
-	height:99%;
+	height:100%;
 	position:absolute;
 	overflow:hidden;
 	top:0;
@@ -3429,9 +3429,6 @@ td.product-thumbnail img{width:100px !important; height:auto !important;}
 .filter-container .desc span,
 .filter-container .desc h4{padding:0 20px;}
 .page-id-43 .filter li{max-width: 255px;}
-.page-id-43 .filter li:nth-child(2) {
-  display: none;
-}
 .filter a{
   padding:8px 20px;
   height: 48px;
