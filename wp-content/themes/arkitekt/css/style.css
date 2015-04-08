@@ -717,11 +717,6 @@ ul#navlist li a span {
 .home .features{
   text-align: center;
 }
-.home .dark [class*="column"]{
-  display: inline-block!important;
-  text-align: left;
-  float: none!important;
-}
 .feat-text {
 	background:#0088C2;
 	-webkit-border-radius:5px;
